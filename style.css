@@ -1,0 +1,19 @@
+  .card__header {
+    margin: 20px;
+    padding-bottom: 20px;
+    border: 1px solid #000;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: rgba(63, 62, 62, 0.445) 8px 8px 10px;
+  }
+  .card__header h3 {
+    text-align: center;
+  }
+  .card__header p {
+    padding: 0 20px;
+  }
+  .card__header .button {
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
