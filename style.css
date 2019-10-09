@@ -8,6 +8,7 @@
   }
   .card__header h3 {
     text-align: center;
+    font-size: 30px;
   }
   .card__header p {
     padding: 0 20px;
